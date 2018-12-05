@@ -1,0 +1,13 @@
+.idea/*
+*/workspace.xml
+*/__pycache__/*
+*.pyc
+test/*
+qaschool/settings.py
+db2.sqlite3
+*.xmind
+uploads/*
+pages/course/*
+static/admin/*
+uwsgi.log
+*.sh
